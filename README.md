@@ -50,9 +50,10 @@ Navigate to cloudfront distibution dashboard
 - current https://d7vq1cm9471d.cloudfront.net is not redirected to any domain.
 - we can edit the yaml document with R53 resoucres and certification manager fro SSL.
 
-## Alternative
+## Alternatives and future Improvements
 - deploy manually creating and configuring resources. https://thegiridhar.com/  time consuming and repeative work load
 - host with AWS Amplify with CI/CD best way (i will experment in the Future)
 - if i have more time i will learn to deploy with aws amplify and explore other alternatives.
-- and use GO SDK automate the process and avoide GUI and better Front end skills for production.
+- use GO SDK automate the current process to  avoide GUI and error handling
+-  better Frontend skills for production.
 
